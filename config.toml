@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sunday Pizza Kitchen"
+theme = ["override", "ananke"]
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Adventures in Baking Pizza"
+  featured_image = "images/pizza_header.jpg"
+  custom_css = ["override.css"]
