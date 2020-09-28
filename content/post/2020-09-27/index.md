@@ -9,7 +9,7 @@ featured_image: /post/2020-09-27/featured.jpg
 ---
 
 It is the last Sunday of September. Niles is out of town this weekend so I made
-a small batch of dough which normally yields three doughballs. I decided to do
+a small batch of dough which normally yields three dough balls. I decided to do
 some cheese blend testing and instead portioned the dough into a single 280 g
 ball for a 12 inch pizza and then four balls each at 135 g for the various
 blends.
@@ -38,8 +38,8 @@ Coming out of the oven:
 [![Standard Cheese -- After](standard_after.tn.jpg)](standard_after.jpg)
 
 It didn't quite make it out to 12 inches and the dough was a bit thicker than
-usual. Sprinked a bit of Parmesan to finish it up and the taste was great. Zach
-was the first to say that the seasonings in the sauce were more pronouced this
+usual. Sprinkled a bit of Parmesan to finish it up and the taste was great. Zach
+was the first to say that the seasonings in the sauce were more pronounced this
 time and in a good way. I wonder if the recipes I was looking at expected the
 liquid to be thrown out and I wasn't putting in enough. I didn't notice a
 difference in bitterness though. We might have to do a liquid vs no-liquid test
@@ -62,7 +62,7 @@ The 135 g dough balls came out to be the perfect size for smaller pizzas to test
 
 [![Blend #1](blend_1.tn.jpg)](blend_1.jpg)
 
-This tasted good. The provolone taste was defintely in there but it was kind
+This tasted good. The provolone taste was definitely in there but it was kind
 of muted. Zach said this was his favorite in the blend testing done today.
 
 ### Blend #2
@@ -93,7 +93,7 @@ wasn't even close.
 ### Blend #3
 
 Next up is 50% mozzarella and 50% Monterey Jack. This blend was to get a better
-sense of how Montery Jack tastes on a pizza as I truly beleive this is a
+sense of how Monterey Jack tastes on a pizza as I truly believe this is a
 cheese in the ever elusive [Ponzetti's Pizza](https://www.facebook.com/ponzettis/).
 
 Out of the oven:
