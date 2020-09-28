@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://sundaypizzakitchen.com"
 languageCode = "en-us"
 title = "Sunday Pizza Kitchen"
 theme = ["override", "ananke"]
+tags = []
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"

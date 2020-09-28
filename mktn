@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Make thumbnail images
+#
+# Example: mktn *.jpg
+
+for image in $@; do
+    dir=$(dirname $image)
+    base=$(basename $image)
+    ext="${base##*.}"
+    name="${base%.*}"
+    cmd="convert -resize 1000 $image ${dir}/${name}.tn.${ext}"
+    echo $cmd
+    $cmd
+done
