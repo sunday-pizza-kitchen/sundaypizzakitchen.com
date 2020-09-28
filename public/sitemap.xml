@@ -3,15 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sundaypizzakitchen.com/post/2020-09-27/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sundaypizzakitchen.com/post/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sundaypizzakitchen.com/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sundaypizzakitchen.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sundaypizzakitchen.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sundaypizzakitchen.com/hardware/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sundaypizzakitchen.com/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sundaypizzakitchen.com/tags/</loc>
   </url>
   
 </urlset>
