@@ -32,10 +32,10 @@ cheddar, and 10 g of Monterey Jack. I didn't bother shredding the cheese and
 cubed it instead.
 
 Going into the oven:
-[![Standard Cheese -- Before](standard_before.tn.jpg)](standard_before.jpg)
+[![Standard Cheese -- Before](standard_before.tn.jpg)](standard_before.tn.jpg)
 
 Coming out of the oven:
-[![Standard Cheese -- After](standard_after.tn.jpg)](standard_after.jpg)
+[![Standard Cheese -- After](standard_after.tn.jpg)](standard_after.tn.jpg)
 
 It didn't quite make it out to 12 inches and the dough was a bit thicker than
 usual. Sprinkled a bit of Parmesan to finish it up and the taste was great. Zach
@@ -56,11 +56,11 @@ that they use smoked provolone so it would be fun to try and find that taste.
 Today wasn't the fancy cheese. It is the same pre-packaged slices that I use
 when making ham sandwiches or cheesesteaks:
 
-[![Provolone](provolone.tn.jpg)](provolone.jpg)
+[![Provolone](provolone.tn.jpg)](provolone.tn.jpg)
 
 The 135 g dough balls came out to be the perfect size for smaller pizzas to test cheese blends with. The first out of the oven was this:
 
-[![Blend #1](blend_1.tn.jpg)](blend_1.jpg)
+[![Blend #1](blend_1.tn.jpg)](blend_1.tn.jpg)
 
 This tasted good. The provolone taste was definitely in there but it was kind
 of muted. Zach said this was his favorite in the blend testing done today.
@@ -79,7 +79,7 @@ its a scrambled bowl now.
 
 Then pizza came out looking like this:
 
-[![Blend #2](blend_2.tn.jpg)](blend_2.jpg)
+[![Blend #2](blend_2.tn.jpg)](blend_2.tn.jpg)
 
 I thought it tasted way better than I expected and we actually ate the
 entire pizza. Terri came down to see what all the commotion was about and
@@ -98,7 +98,7 @@ cheese in the ever elusive [Ponzetti's Pizza](https://www.facebook.com/ponzettis
 
 Out of the oven:
 
-[![Blend #3](blend_3.tn.jpg)](blend_3.jpg)
+[![Blend #3](blend_3.tn.jpg)](blend_3.tn.jpg)
 
 And the taste was quite bland. Yes, the Monterey Jack was there but ever so
 subtle. It felt like there was more smell of it while it was cooking than taste
@@ -110,7 +110,7 @@ This time we tried 50% mild cheddar and 50% Monterey Jack. I left it in the
 oven a bit too long and got quite a bit of cheese separation (which I think
 is from the cheddar):
 
-[![Blend #4](blend_4.tn.jpg)](blend_4.jpg)
+[![Blend #4](blend_4.tn.jpg)](blend_4.tn.jpg)
 
 Zach said this was his second favorite of the night. I thought it was too
 much cheddar. Some bites were fine, but those with too much cheddar were not
