@@ -16,7 +16,11 @@
             </h2>
           {{ end }}
         {{ else }} 
+          {{ with .Description }}
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">{{ . }}</h2>
+          {{ else }}
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">&nbsp;</h2>
+          {{ end }}
         {{ end }}
       </div>
     </div>

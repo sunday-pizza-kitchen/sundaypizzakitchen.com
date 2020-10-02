@@ -14,7 +14,7 @@ some cheese blend testing and instead portioned the dough into a single 280 g
 ball for a 12 inch pizza and then four balls each at 135 g for the various
 blends.
 
-I've been bouncing between 270g, 275g, and 280g for the 12 inch pizza and I'm
+I've been bouncing between 270 g, 275 g, and 280 g for the 12 inch pizza and I'm
 going to stick to the higher side for now. I also increased the kneading time
 from five minutes to ten minutes and finally got around to trying out the
 windowpane test. That actually works--I saw the windowpane. I may have
