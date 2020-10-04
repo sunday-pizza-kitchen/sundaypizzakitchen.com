@@ -26,15 +26,32 @@ By weights, the recipe is:
 
 Yield: 6 dough balls, each around 275 g
 
-My dad is a fan of the King Arthur flour so that is what I have been using. It has treated me well so far and I keep buying that brand. Early in the pandemic when everything was hard to find Terri managed to grab some Gold Medal flour. At that point flour was probably harder to find than gold itself. That worked well too.
+I did make a modification by reducing the amount of yeast by a half. The dough
+would be a bit puffy. When doing a batch of six, the last dough ball would be
+blown out to the point it was difficult to work with. Half the yeast gives the
+dough a longer room temperature life with still a good rise. Six does seem to be the limit for me when making pizza. More than that requires letting the dough come up to room temperature in shifts.
+
+My dad is a fan of the King Arthur flour so that is what I have been using. It
+has treated me well so far and I keep buying that brand. Early in the pandemic
+when everything was hard to find Terri managed to grab some Gold Medal flour.
+At that point flour was probably harder to find than gold itself. That worked
+well too.
 
 ![King Arthur Flour](ka_flour.jpg)
 
-Place all the dry goods in a large bowl and stir until well combined. Roll up your sleeves, take off any rings, dump the liquids in, and start mixing. Resist the temptation to add more water. It is going to feel very dry at first but it should get wetter as you go along. As soon as there in no longer any dry flour in the bowl, stop. Cover the bowl and let it sit for 30 minutes. 
+Place all the dry goods in a large bowl and stir until well combined. Roll up
+your sleeves, take off any rings, dump the liquids in, and start mixing. Resist
+the temptation to add more water. It is going to feel very dry at first but it
+should get wetter as you go along. As soon as there in no longer any dry flour
+in the bowl, stop. Cover the bowl and let it sit for 30 minutes.
 
-Knead the dough for 10 minutes. If it becomes too wet and starts sticking to the surface, add a touch of flour, and continue kneading. Place the dough in an oiled bowl, cover, and let it sit in the fridge overnight. 
+Knead the dough for 10 minutes. If it becomes too wet and starts sticking to
+the surface, add a touch of flour, and continue kneading. Place the dough in an
+oiled bowl, cover, and let it sit in the fridge overnight.
 
-Take the dough out of the fridge 2 hours before baking time. Divide the dough, make individual dough balls, and place on a floured sheet pan. Cover the sheet pan which I usually do by using another inverted sheet pan. 
+Take the dough out of the fridge 2 hours before baking time. Divide the dough,
+make individual dough balls, and place on a floured sheet pan. Cover the sheet
+pan which I usually do by using another inverted sheet pan.
 
 Half of the recipe is:
 
@@ -43,6 +60,12 @@ Half of the recipe is:
 - 5 g extra virgin olive oil
 - ½ tsp active dry yeast 
 - 325 g water 
+
+I am really bad when it comes to halving recipes in my head. No matter how many
+times I keep repeating, "half, half, half", I usually end up forgetting to
+halve one of the ingredients. Which is why I have listed it here. I also made
+sure to put enough text between the full and half versions to ensure that both
+aren't displayed on my phone screen at the same time.
 
 ## Sauce
 

@@ -11,7 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
-  favicon = ""
+  favicon = "images/favicon.png"
   site_logo = ""
   description = "Adventures in Baking Pizza"
   featured_image = "images/pizza_header.jpg"
