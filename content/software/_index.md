@@ -72,7 +72,34 @@ aren't displayed on my phone screen at the same time.
 
 ## Sauce
 
-Coming Soon
+For this recipe, I found three or four different recipes online and then
+averaged them out and added or removed ingredients from each for no particular
+reason. My notes do not contain the various sites that I looked at. This sauce
+tastes good enough for now but improvements are always welcome. 
+
+- 28 oz can of whole peeled San Marzano tomatoes
+- 1 tbsp of extra virgin olive oil 
+- 1 clove of garlic
+- 1 tsp of salt
+- ¼ tsp of black pepper 
+- ½ tsp of dried oregano
+- 1 tsp of dried basil
+- ½ tsp of dried marjoram
+- 1 tbsp of sugar 
+
+For the San Marzano tomatoes, I pick up these at my local supermarket:
+
+![Cento San Marzano Tomatoes](cento.tn.jpg)
+
+I first tried to put some vinegar in the recipe as a few of them called for
+that but it never worked for me. I could always taste the vinegar. It was out
+in the front and center. I kept halving it until I removed it completely.
+
+I originally used honey instead of the sugar. I think I read somewhere the
+honey should be used in a non-cooked sauce and sugar in a cooked sauce. But
+then my vegan friend, Ken, said that he doesn't eat honey. Oops. I guess I
+should have asked before we had that sauce contest. I've been using sugar
+lately but I might switch back to honey at some point. 
 
 ## Cheese
 
