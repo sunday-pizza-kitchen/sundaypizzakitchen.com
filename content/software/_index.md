@@ -95,7 +95,7 @@ I first tried to put some vinegar in the recipe as a few of them called for
 that but it never worked for me. I could always taste the vinegar. It was out
 in the front and center. I kept halving it until I removed it completely.
 
-I originally used honey instead of the sugar. I think I read somewhere the
+I originally used honey instead of the sugar. I think I read somewhere that
 honey should be used in a non-cooked sauce and sugar in a cooked sauce. But
 then my vegan friend, Ken, said that he doesn't eat honey. Oops. I guess I
 should have asked before we had that sauce contest. I've been using sugar
