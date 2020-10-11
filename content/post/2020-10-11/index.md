@@ -37,12 +37,12 @@ pizza was cheese and came out like this:
 
 ![Pizza #1](pizza_1.tn.jpg)
 
-The reviews were good on that one. And it even looks really good. Erin was
-remarking on difficult it is for her to launch the pizza off a metal peel and
-wanted to try with my wooden one instead. She was having some issues keeping
-the dough circular while stretching and the end result looked like a [moon of
-Pluto](https://en.wikipedia.org/wiki/Moons_of_Pluto). It still tasted really
-good. Shapes have no flavors.
+The reviews were good on that one. And it even looks really good too. Erin was
+remarking on how difficult it is for her to launch the pizza off a metal peel
+and wanted to try with my wooden one instead. She was having some issues
+keeping the dough circular while stretching and the end result looked like a
+[moon of Pluto](https://en.wikipedia.org/wiki/Moons_of_Pluto). It still tasted
+really good. Shapes have no flavors.
 
 ![Pizza #2](pizza_2.tn.jpg)
 
