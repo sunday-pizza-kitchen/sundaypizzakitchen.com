@@ -75,17 +75,17 @@ aren't displayed on my phone screen at the same time.
 For this recipe, I found three or four different recipes online and then
 averaged them out and added or removed ingredients from each for no particular
 reason. My notes do not contain the various sites that I looked at. This sauce
-tastes good enough for now but improvements are always welcome. 
+tastes good enough for now but improvements are always welcome.
 
 - 28 oz can of whole peeled San Marzano tomatoes
-- 1 tbsp of extra virgin olive oil 
+- 1 tbsp of extra virgin olive oil
 - 1 clove of garlic
 - 1 tsp of salt
-- ¼ tsp of black pepper 
+- ¼ tsp of black pepper
 - ½ tsp of dried oregano
 - 1 tsp of dried basil
 - ½ tsp of dried marjoram
-- 1 tbsp of sugar 
+- 1 tbsp of sugar
 
 For the San Marzano tomatoes, I pick up these at my local supermarket:
 
@@ -99,8 +99,35 @@ I originally used honey instead of the sugar. I think I read somewhere that
 honey should be used in a non-cooked sauce and sugar in a cooked sauce. But
 then my vegan friend, Ken, said that he doesn't eat honey. Oops. I guess I
 should have asked before we had that sauce contest. I've been using sugar
-lately but I might switch back to honey at some point. 
+lately but I might switch back to honey at some point.
 
 ## Cheese
 
-Coming Soon
+For a 12" pizza, I use the following blend of cheeses:
+
+- 80 g part skim mozzarella
+- 10 g medium white cheddar
+- 10 g monterey jack
+- parmesan after baking according to taste
+
+![Cheese](cheese.tn.jpg)
+
+Weighing the cheese might sound like it is overkill, but when it comes to
+blending, it is the only way I could make the taste consistent. A little bit of
+cheddar is nice but it can be overpowering when too much is on the pizza. This
+blend of 100 g of cheese provides nice coverage on the pizza without being
+too gooey. Add or remove cheese to adjust to your personal preference.
+
+For the mozzarella, I get the Galbani brand and they have it in two form
+factors--great for slicing, and great for shredding. Both work well depending
+on if you want to cube it or shred it. I use a shredding attachment with my
+stand mixer when I need to shred. I find it a bit difficult to work with a box
+shredder. I end up always busting my knuckles against the counter top.
+
+There is a difference when it comes to melting and browning between the part
+skim and whole milk mozzarella. Try the part skim first and get a feel for how
+that tastes. Then move to the whole milk and decide which one you like better.
+
+Trying different cheese blends is half the fun. What is listed here is what
+I use most of the time. And don't think that the pizza has to have mozzarella.
+Plenty of pizzas taste great without it.
