@@ -16,3 +16,4 @@ enableRobotsTXT = false
   description = "Adventures in Baking Pizza"
   featured_image = "images/pizza_header.jpg"
   custom_css = ["override.css"]
+  recent_posts_number = 10
