@@ -6,7 +6,7 @@ tags = []
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = false
 
@@ -16,4 +16,5 @@ enableRobotsTXT = false
   description = "Adventures in Baking Pizza"
   featured_image = "images/pizza_header.jpg"
   custom_css = ["override.css"]
-  recent_posts_number = 10
+  recent_posts_number = 8
+
