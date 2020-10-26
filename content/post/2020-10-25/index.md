@@ -28,7 +28,7 @@ crunchy. I don't have notes from the second one but I remember that one being
 too bready and way too thick. My notes did have the [source of the dough
 recipe](https://www.foodiewithfamily.com/the-best-pan-pizza-how-why-and-what-to-put-on-it/)
 and I notice this time that it credited as a slight modification of the one
-provided by [Kenji
+provided by [J. Kenji
 López-Alt](https://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html).
 I went with the original source this time with no changes.
 

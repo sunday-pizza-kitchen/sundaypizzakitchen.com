@@ -85,7 +85,7 @@ tastes good enough for now but improvements are always welcome.
 - ½ tsp of dried oregano
 - 1 tsp of dried basil
 - ½ tsp of dried marjoram
-- 1 tbsp of sugar
+- 1 tbsp of sugar or 1 squirt of honey
 
 For the San Marzano tomatoes, I pick up these at my local supermarket:
 
