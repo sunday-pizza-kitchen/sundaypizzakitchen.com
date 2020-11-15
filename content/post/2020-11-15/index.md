@@ -101,7 +101,7 @@ To me it was a bit overcooked and probably should have come out of the oven
 earlier. Niles like pizzas with extra crisp so this was his style. It was
 very difficult getting the pizza out of the pan. It was sticking pretty good
 in one of the corners. Next time I'll use the full quarter cup of oil that
-was called for in the recipe. It took two of us really wrangle it out
+was called for in the recipe. It took two of us to really wrangle it out
 of the pan. Here was the moment of triumph when we finally set the
 pizza free:
 
