@@ -14,7 +14,7 @@ Thanksgiving holiday. Niles and I enjoyed the company of
 from last week so he was invited back. We wanted to find out how this
 sauce tastes in a standard New York style pizza so our plan was to start
 with a simple cheese pizza built the normal way. Then to try a pizza
-where the cheese goes down first and the sauce is
+where the cheese goes down first with the sauce
 [swirled on top](https://grottopizza.com/).
 
 Important tip: Do not place your plastic squeeze bottle next to your
@@ -78,7 +78,7 @@ scooped out sauce with a spoon and tried to form a swirl the best I could:
 ![Swirl Before](swirl_before.tn.jpg)
 
 And we put on some pepperoni. Hormel brand this time. Always check to make
-sure the pizza slides free before attempting a launch. A spilled some sauce
+sure the pizza slides free before attempting a launch. I spilled some sauce
 in the southwest corner and it was anchored to the peel. I brushed off the
 excess, placed a little more flour down in that spot, and tried again. The
 pizza came off the peel cleanly and eight minutes later:
