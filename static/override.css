@@ -1,3 +1,7 @@
 article section.tc-l {
     text-align: left;
 }
+
+article p {
+    font-family: "avenir next", avenir, sans-serif;
+}
