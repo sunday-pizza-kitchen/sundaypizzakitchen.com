@@ -17,4 +17,6 @@ enableRobotsTXT = false
   featured_image = "images/pizza_header.jpg"
   custom_css = ["override.css"]
   recent_posts_number = 8
+  twitter = "https://twitter.com/SundayPizzaKit"
+  github = "https://github.com/sunday-pizza-kitchen/sundaypizzakitchen.com"
 
