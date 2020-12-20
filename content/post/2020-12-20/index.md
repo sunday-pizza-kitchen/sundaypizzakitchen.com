@@ -90,6 +90,10 @@ though it didn't have the nice browning underneath. I was too aggressive at
 moving fast with these pizzas and I didn't allow enough time for the top stone
 to recharge.
 
+A happy customer.
+
+![Pizza To Go](order_to_go.tn.jpg)
+
 The next pizza was for Zach which was pepperoni with light onion and light
 black olives. This pizza was placed on the bottom stone:
 
