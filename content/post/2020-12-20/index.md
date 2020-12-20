@@ -122,7 +122,7 @@ baking.
 That one looks so much better. Zach said it tasted great but I left a little too
 much flour on the bottom of the crust.
 
-I started baking the pizzas at 12:15pm and finished all five at 1:50pm. Next
+I started baking the pizzas at 12:35pm and finished all five at 1:50pm. Next
 time I just need to ensure there is enough time for each stone to recharge and
 that I closely watch the pizzas being baked on the bottom stone.
 
