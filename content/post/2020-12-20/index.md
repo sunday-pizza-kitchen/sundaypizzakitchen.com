@@ -42,8 +42,8 @@ Five pizzas to make today.
 
 I opened a package of the skim milk mozzarella and it weighed out to be 476 g.
 No blends today and the usual amount of 100 g of cheese per pizza wasn't going
-to work out. To stretch it out, pizzas with toppings were going to get 80 g of
-cheese while a pizza without any toppings would get the full 100 g.
+to work. To stretch it out, pizzas with toppings would get 80 g of
+cheese while pizzas without toppings would get the full 100 g.
 
 Mise en place for today's bake:
 
