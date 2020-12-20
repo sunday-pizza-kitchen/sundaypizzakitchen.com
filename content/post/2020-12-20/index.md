@@ -26,7 +26,7 @@ is good old butter.
 
 When I used shortening, I put in two tablespoons for 500 g of flour. I
 decided to do the same for the butter. I was making up a bigger batch of
-dough for today so so I put in four tablespoons with 1,000 g of flour. I
+dough for today so I put in four tablespoons with 1,000 g of flour. I
 nuked it in the microwave for a minute to liquefy but the splattering and
 hot bowl shows that I probably should have used a shorter time.
 
