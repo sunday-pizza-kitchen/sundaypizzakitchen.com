@@ -15,8 +15,8 @@ there is going to be pizza. Even more so when Maria brings her own sauce:
 ![Sauce](sauce.tn.jpg)
 
 Terri doesn't like my sauce so I think she told Maria that her sauce was
-mandatory in order for Terri to participate in pizza day. They also brought
-over some fresh mozzarella:
+mandatory in order to participate in pizza day. They also brought over some
+fresh mozzarella:
 
 ![Fresh Moz](fresh_moz.tn.jpg)
 
