@@ -71,7 +71,7 @@ The bubbles came out looking and tasting great:
 
 ![Bubble](bubble.tn.jpg)
 
-I'll be taking a break from baking pizza the next too weeks but should return
+I'll be taking a break from baking pizza the next two weeks but should return
 in June.
 
 ---
@@ -96,6 +96,6 @@ ended up being a big pizza:
 
 It didn't even fit on the pan. I ate all of except for two slices. Zach had one
 slice and the last one was tossed. I was tempted to eat it but that enough
-calories already. 
+calories already.
 
 
